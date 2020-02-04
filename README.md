@@ -1,2 +1,2 @@
-# Neural_Nets
-Various interesting topics related to neural nets
+# SnakeNN
+Змейка, управляемая нейронной сетью и обученная с использованием генетического алгоритма
